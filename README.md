@@ -47,7 +47,8 @@ This **Pizza Sales Dashboard** provides key insights into pizza sales, order tre
 ---
 
 ### 📸 Dashboard Preview:  
-![Pizza Sales Dashboard](pizza%20dashboard.jpg)  
+
+![image](https://github.com/user-attachments/assets/c78bf57c-cd98-48fc-8783-308fa9202872)
 
 ---
 
